@@ -1,4 +1,4 @@
-# Fitness_Analysis_Using_Databricks-Unity-Catalog-Project-and-Structured-Streaming
+# Fitness_Analysis_Using_Databricks-Unity-Catalog-and-Spark-Structured-Streaming
 Fitness Tracking or Analysis of an user
 
 ## Introduction
